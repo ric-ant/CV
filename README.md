@@ -1,6 +1,6 @@
-### Olá, eu sou Venilton FalvoJr (falvojr) 👋
+### Olá, eu sou Ricardo M. Antonello (ric-ant) 👋
 
-✨ **Tech Lead** na [DIO](https://digitalinnovation.one/) e entusiasta de tecnologia e educação.
+✨ **Desenvolvedor ("em aprendizado) Low Code (Power Apps) ** 
 
 🏢 **Atuação Profissional**
 - 🚀 Tech Lead no time de Educação da DIO
@@ -15,7 +15,7 @@
 
 ### 📌 Projetos em Destaque
 
-TODO: Incluir projetos legais!
+Aplicavito Power App - POUSADA ...
 
 ### 🚀 Linguagens Mais Usadas
 

@@ -8,7 +8,7 @@
 
 ### 📌 Projetos em Destaque
 
-Aplicavito Power App - POUSADA 
+Aplicativo Power App - POUSADA 
 
 ### 🚀 Linguagens Mais Usadas
 
